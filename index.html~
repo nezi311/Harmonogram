@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	 <style>
+	 	 table{text-align: center;border: 0;background-color: #000000;}
+	 	 td{padding: 5px;}
+	 	 thead{background-color: #ffffff;}
+	 	 tfoot{background-color: #ffffff;}
+	 	 tbody{background-color:#ffffff;}
+	 	 body{background-color:#ffffff;}
+	 </style>
+</head>
+<body>
+<table>
+	 <thead>
+	 	 <tr>
+	 	 	 <td>Dzie&#324;</td>
+	 	 	 <td>Dy&#380;ur</td>
+	 	 	 <td>Spektakl</td>
+	 	 	 <td>Godzina spektaklu</td>
+	 	 	 <td>W pracy od</td>
+	 	 	 <td>W pracy do</td>
+	 	 	 <td>Godzionowo</td>
+	 	 	 <td>Scena</td>
+	 	 </tr>
+	 </thead>
+	 <tbody>
+	 	 <tr>
+	 	 	 <td colspan=8>Styczen</td>
+	 	 </tr>
+	 	 <tr>
+	 	 	 <td rowspan=3>18	 	 	 </td>
+	 	 <tr>
+	 	 	 </td>
+	 	 	 <td>D	 	 	 </td>
+	 	 	 <td>Tadek niejadek</td>
+	 	 	 <td>16:00	 	 	 </td>
+	 	 	 <td>15:00	 	 	 </td>
+	 	 	 <td>18:00	 	 	 </td>
+	 	 	 <td>3.0	 	 	 </td>
+	 	 	 <td>SK	 	 	 </td>
+	 	 </tr>
+	 	 <tr>
+	 	 	 </td>
+	 	 	 <td>	 	 	 </td>
+	 	 	 <td>Mayday</td>
+	 	 	 <td>19:00	 	 	 </td>
+	 	 	 <td>18:00	 	 	 </td>
+	 	 	 <td>21:30	 	 	 </td>
+	 	 	 <td>3.5	 	 	 </td>
+	 	 	 <td>SD	 	 	 </td>
+	 	 </tr>
+	 	 <tr>
+	 	 	 <td rowspan=2>19	 	 	 </td>
+	 	 <tr>
+	 	 	 </td>
+	 	 	 <td>	 	 	 </td>
+	 	 	 <td>Szalone nozyczki</td>
+	 	 	 <td>19:00	 	 	 </td>
+	 	 	 <td>18:00	 	 	 </td>
+	 	 	 <td>21:30	 	 	 </td>
+	 	 	 <td>3.5	 	 	 </td>
+	 	 	 <td>SD	 	 	 </td>
+	 	 </tr>
+	 <	body>
+	 <tfoot>
+	 	 <tr>
+	 	 	 <td colspan=8>Oprowadzanie po spektaklu 22.04
+ulotki 2,5h	 	 	 </tr>
+	 	 </tr>
+	 <	foot>
+</table>
+</body>
+</html>
